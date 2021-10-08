@@ -1,12 +1,8 @@
 
 
 def func(a,b):
-    return "hello"
+    return "goodbye"
    
 
 def func2(a,b):
     return a * b
-
-
-    
-
